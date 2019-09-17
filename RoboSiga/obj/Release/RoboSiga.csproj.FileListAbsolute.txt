@@ -1,0 +1,12 @@
+C:\Users\felipe.sena\Documents\git\ConsultaNotaSiga\RoboSiga\bin\Release\RoboSiga.exe.config
+C:\Users\felipe.sena\Documents\git\ConsultaNotaSiga\RoboSiga\bin\Release\RoboSiga.exe
+C:\Users\felipe.sena\Documents\git\ConsultaNotaSiga\RoboSiga\bin\Release\RoboSiga.pdb
+C:\Users\felipe.sena\Documents\git\ConsultaNotaSiga\RoboSiga\bin\Release\HtmlAgilityPack.dll
+C:\Users\felipe.sena\Documents\git\ConsultaNotaSiga\RoboSiga\bin\Release\Newtonsoft.Json.dll
+C:\Users\felipe.sena\Documents\git\ConsultaNotaSiga\RoboSiga\bin\Release\HtmlAgilityPack.pdb
+C:\Users\felipe.sena\Documents\git\ConsultaNotaSiga\RoboSiga\bin\Release\HtmlAgilityPack.xml
+C:\Users\felipe.sena\Documents\git\ConsultaNotaSiga\RoboSiga\bin\Release\Newtonsoft.Json.xml
+C:\Users\felipe.sena\Documents\git\ConsultaNotaSiga\RoboSiga\obj\Release\RoboSiga.csproj.CoreCompileInputs.cache
+C:\Users\felipe.sena\Documents\git\ConsultaNotaSiga\RoboSiga\obj\Release\RoboSiga.csproj.CopyComplete
+C:\Users\felipe.sena\Documents\git\ConsultaNotaSiga\RoboSiga\obj\Release\RoboSiga.exe
+C:\Users\felipe.sena\Documents\git\ConsultaNotaSiga\RoboSiga\obj\Release\RoboSiga.pdb
